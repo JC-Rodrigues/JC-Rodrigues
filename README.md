@@ -2,7 +2,7 @@
 
 - 👨‍🎓 Atualmente tenho estudado muito sobre HTML, CSS e JavaScript
 - 💬 Pergunte-me sobre tecnologia e nós teremos uma longa conversa
-- 🚀 Em constate evolução e sempre em busca de novos desafios
+- 🚀 Em constante evolução e sempre em busca de novos desafios
 
 <div align="center">
   <a href="https://github.com/JC-Rodrigues/JC-Rodrigues">
