@@ -1,4 +1,4 @@
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou Julio Cesar!</h1>
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30rem">, Eu sou Julio Cesar!</h1>
 
 - 👨‍🎓 Atualmente tenho estudado muito sobre HTML, CSS e JavaScript
 - 💬 Pergunte-me sobre tecnologia e nós teremos uma longa conversa
